@@ -207,7 +207,9 @@ div.row span {
 
 .fbackground {
 	height: 475px;
-	background-image: url("building photos/imgf.png");
+	width: 100%;
+
+	background-image: url("building photos/imgf1.png");
 	background-size: cover;
 	z-index: -1;
 	margin-top: -475px; 	
